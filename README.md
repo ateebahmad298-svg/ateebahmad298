@@ -14,7 +14,7 @@
 ---
 
 ### 🌐 Connect with me
-<p align="left">
+<p align="center">
   <a href="https://www.instagram.com/_igteddy" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
   </a>
@@ -47,11 +47,8 @@
 
 ---
 
-### 🧠 About Me
-I’m currently working on:
-- 📰 Building a modern **e-newspaper platform** with SEO optimization & admin panel  
-- 🤖 Creating a **Discord bot** with moderation, leveling & giveaway systems  
-- 🖥️ Developing a **Pterodactyl hosting panel** with credits & auto server creation  
+### 🧠 About Me  
+I enjoy learning new technologies, experimenting with AI-assisted tools, and turning ideas into real-world projects that combine functionality with clean design.  
 
 ---
 
@@ -65,23 +62,12 @@ I’m currently working on:
 
 ### 🧩 Top Languages
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=css,figma,html,illustrator,js,linux,mysql,nodejs,php,python,react,tailwind" />
 </p>
 
 ---
 
-### 💡 Fun Fact
+### 💡 Fun Fact  
 I love coding at night 🌙 and building creative web apps that blend design with logic 🚀  
 
 ---
